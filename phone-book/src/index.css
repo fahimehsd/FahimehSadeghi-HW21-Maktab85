@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+a {
+  margin-right: 2rem;
+}
+input,
+select {
+  border: 1px solid silver;
+  border-radius: 7px;
+  padding: 0.75rem;
+  margin-block: 0.5rem;
+}
